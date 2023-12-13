@@ -11,12 +11,10 @@ print("Podaj nazwę pliku:")
 nazwa = input()
 
 code = pyqrcode.create(gen)
-
 code.svg(f"{folder}/{nazwa}.svg", scale=8)
 
-# Generator kodów QR by Florek42
 # ---INSTRUKCJA OBSŁUGI---
 # 1. Wpisz link np. https://github.com/Florek42
 # 2. Podaj ścieżkę do folderu, w którym chcesz zapisać wygenerowany obraz
-# Przykładowo: C:\Users\Florek42\Desktop\QRCodes
+# Przykładowo: C:\Users\Desktop\xyz
 # Podaj nazwę pliku, któy zostanie utworzony np. kod.svg
