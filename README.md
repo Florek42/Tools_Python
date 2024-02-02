@@ -37,7 +37,8 @@ After stopping the keylogger, the data is saved to a text file named registered_
 ⚠️ Note
 This program is intended for educational purposes only. Use it in accordance with ethical principles and respect for the privacy of others.
 
-Thank you for using KeyLogger! If you have any questions, issues, or suggestions, feel free to reach out. 💌
+Thank you for using my KeyLogger! If you have any questions, issues, or suggestions, feel free to reach out. 💌
+My Discord --> Florqee
 
 ------------------------------------------------------------------------------------------------------------------------
 
