@@ -20,6 +20,11 @@ class KeyLogger:
 
         self.last_key_time = current_time
 
+    def on_release(self, key):
+        if key == keyboard.Key.esc:
+            self.save_to_file()
+            return False  # Stop the listener
+
     def save_to_file(self):
         if self.start_time is not None:
             end_time = time.time()
@@ -29,10 +34,13 @@ class KeyLogger:
             
             with open(filename, "w") as file:
                 file.write(f"Total Duration: {total_duration:.2f} seconds\n")
-                file.write("Key\t\tDuration\n")
+                file.write("Key\t\tDuration\t\tInterval\n")
 
+                previous_time = self.start_time
                 for key, duration in self.keys:
-                    file.write(f"{self.format_key(key)}\t\t{duration:.2f} seconds\n")
+                    interval = duration if duration > 0 else 0
+                    file.write(f"{self.format_key(key)}\t\t{duration:.2f} seconds\t\t{interval:.2f} seconds\n")
+                    previous_time += duration
 
             print(f"Data saved to {filename}")
 
@@ -45,8 +53,6 @@ class KeyLogger:
 if __name__ == "__main__":
     key_logger = KeyLogger()
 
-    with keyboard.Listener(on_press=key_logger.on_press) as listener:
+    with keyboard.Listener(on_press=key_logger.on_press, on_release=key_logger.on_release) as listener:
         print("Keylogger started. Press 'Esc' to stop.")
         listener.join()
-
-    key_logger.save_to_file()

@@ -1,0 +1,33 @@
+Total Duration: 5.14 seconds
+Key		Duration		Interval
+f		0.04 seconds		0.04 seconds
+h		0.26 seconds		0.26 seconds
+g		0.03 seconds		0.03 seconds
+d		0.10 seconds		0.10 seconds
+f		0.00 seconds		0.00 seconds
+s		0.21 seconds		0.21 seconds
+d		0.00 seconds		0.00 seconds
+f		0.07 seconds		0.07 seconds
+s		1.00 seconds		1.00 seconds
+i		0.12 seconds		0.12 seconds
+e		0.10 seconds		0.10 seconds
+m		0.10 seconds		0.10 seconds
+a		0.13 seconds		0.13 seconds
+n		0.09 seconds		0.09 seconds
+k		0.20 seconds		0.20 seconds
+o		0.17 seconds		0.17 seconds
+Key.space		0.16 seconds		0.16 seconds
+w		0.24 seconds		0.24 seconds
+i		0.13 seconds		0.13 seconds
+d		0.07 seconds		0.07 seconds
+t		0.66 seconds		0.66 seconds
+t		0.21 seconds		0.21 seconds
+j		0.12 seconds		0.12 seconds
+f		0.06 seconds		0.06 seconds
+a		0.06 seconds		0.06 seconds
+j		0.05 seconds		0.05 seconds
+f		0.05 seconds		0.05 seconds
+b		0.08 seconds		0.08 seconds
+s		0.02 seconds		0.02 seconds
+Key.ctrl_l		0.29 seconds		0.29 seconds
+Key.esc		0.23 seconds		0.23 seconds
