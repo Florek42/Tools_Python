@@ -8,6 +8,21 @@ Python automation scripts/tools
 
 ------------------------------------------------------------------------------------------------------------------------
 
+# This is file with instructions and informations about all of my small programs, apps, bots etc. 🛠️
+
+Welcome to the repository containing various useful tools, applications, bots, etc., created by me during my programming journey. Below, you'll find brief descriptions of each project along with instructions on how to use them.
+
+## How to Run?
+
+In each project anchor, you'll find detailed instructions on how to run and use the respective application, tool, or bot.
+
+## Contact
+
+If you have questions, suggestions, or encounter issues, feel free to reach out. I appreciate any feedback!
+Thank you for exploring my projects! 🚀 My Discord --> Florqee
+
+------------------------------------------------------------------------------------------------------------------------
+
 # KeyLogger
 
 KeyLogger is a simple Python program built with the pynput library. The program tracks pressed keys, records the duration and intervals between key presses, and saves this information to a text file.
@@ -38,7 +53,6 @@ After stopping the keylogger, the data is saved to a text file named registered_
 This program is intended for educational purposes only. Use it in accordance with ethical principles and respect for the privacy of others.
 
 Thank you for using my KeyLogger! If you have any questions, issues, or suggestions, feel free to reach out. 💌
-My Discord --> Florqee
 
 ------------------------------------------------------------------------------------------------------------------------
 
