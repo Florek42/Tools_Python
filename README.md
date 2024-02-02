@@ -23,9 +23,7 @@ KeyLogger is a simple Python program built with the pynput library. The program 
     ```
     python keylogger.py
     ```
-bash
-Copy code
-python keylogger.py
+<br>
 🛑 To stop the keylogger, press the 'Esc' key.
 
 📑 Saved Data
