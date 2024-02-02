@@ -17,11 +17,12 @@ KeyLogger is a simple Python program built with the pynput library. The program 
 📦 Install the required libraries using the following command:
    ```bash
    pip install pynput
-   ```
+   
+
 ▶️ Run the program:
     ```bash
     python keylogger.py
-    ```
+    
 bash
 Copy code
 python keylogger.py
