@@ -23,12 +23,11 @@ KeyLogger is a simple Python program built with the pynput library. The program 
     ```
     python keylogger.py
     ```
---
+
 🛑 To stop the keylogger, press the 'Esc' key.
 
---
 
-📑 Saved Data
+## 📑 **Saved Data**
 After stopping the keylogger, the data is saved to a text file named registered_keys_date_and_time.txt, where "date_and_time" is the exact date and time the program was launched.
 
 The resulting file includes the following information:
