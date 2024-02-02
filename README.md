@@ -20,7 +20,7 @@ KeyLogger is a simple Python program built with the pynput library. The program 
    ```
 
 ▶️ Run the program:
-    ```bash
+    ```
     python keylogger.py
     ```
 bash
