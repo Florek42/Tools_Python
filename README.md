@@ -16,12 +16,12 @@ Thank you for exploring my projects! 🚀 My Discord --> Florqee
 ------------------------------------------------------------------------------------------------------------------------
 
 # **TOOLS LIST:**
- 1. [KeyLogger]
- 2. [PointerTracker]
- 3. [QRCodesGen]
- 4. [SudokuSolver]
+ 1. *KeyLogger*
+ 2. *PointerTracker*
+ 3. *QRCodesGen*
+ 4. *SudokuSolver*
 
 ------------------------------------------------------------------------------------------------------------------------
 
 # **BOTS LIST:**
-1. [LF_Bot]
+1. LF_Bot
