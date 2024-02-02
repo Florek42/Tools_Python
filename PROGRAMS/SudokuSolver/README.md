@@ -1,6 +1,6 @@
-# Sudoku Solver
+# Sudoku Solver 🧩
 
-Sudoku Solver is a simple Python program with a graphical interface that allows you to solve Sudoku puzzles. The program provides a user-friendly interface where you can enter numbers into the Sudoku grid and then solve the puzzle using a backtracking algorithm.
+Sudoku Solver is a user-friendly Python program featuring a graphical interface designed to help you solve Sudoku puzzles effortlessly. This application utilizes a backtracking algorithm to find solutions to Sudoku grids.
 
 ## How to Use
 
@@ -10,10 +10,10 @@ Sudoku Solver is a simple Python program with a graphical interface that allows 
 
 ## Features
 
-- Ability to input numbers from 1 to 9 into the Sudoku grid.
+- Input numbers from 1 to 9 into the Sudoku grid.
 - Automatic validation of input data correctness.
-- Finding solutions using the backtracking algorithm.
-- Coloring solved numbers in green.
+- Utilizes the backtracking algorithm for finding solutions.
+- Solved numbers are elegantly colored in green.
 
 ## Requirements
 
@@ -27,7 +27,3 @@ Sudoku Solver is a simple Python program with a graphical interface that allows 
 
 ```bash
 python sudoku_solver.py
-```
-
-Author:
-"[Forek42]" 
