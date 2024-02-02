@@ -15,12 +15,14 @@ Thank you for exploring my projects! 🚀 My Discord --> Florqee
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# **APP/TOOLS LIST:**
+# **TOOLS LIST:**
  1. [KeyLogger](#KeyLogger)
  2. [PointerTracker](#PointerTracker)
  3. [QRCodesGen](#QRCodesGen)
- 4. [NextProject](#nextproject)
+ 4. [SudokuSolver](#nextproject)
 
+# **BOTS LIST:**
+1. [LF_Bot](#LFBot)
 ------------------------------------------------------------------------------------------------------------------------
 
 # KeyLogger
@@ -114,3 +116,5 @@ Thank you for using QR Code Generator! 🚀
 ------------------------------------------------------------------------------------------------------------------------
 
 # NextProject
+
+# LFBot
