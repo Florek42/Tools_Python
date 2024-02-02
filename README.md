@@ -1,11 +1,5 @@
-# Tools_Python
-Python automation scripts/tools
-
-# APP/TOOLS LIST:
- 1. [KeyLogger](#KeyLogger)
- 2. [PointerTracker](#PointerTracker)
- 3. [QRCodesGen](#QRCodesGen)
-
+# **Tools_Python**
+## **Python automation scripts/tools**
 ------------------------------------------------------------------------------------------------------------------------
 
 # This is file with instructions and informations about all of my small programs, apps, bots etc. 🛠️
@@ -22,6 +16,14 @@ If you have questions, suggestions, or encounter issues, feel free to reach out.
 Thank you for exploring my projects! 🚀 My Discord --> Florqee
 
 ------------------------------------------------------------------------------------------------------------------------
+
+# **APP/TOOLS LIST:**
+ 1. [KeyLogger](#KeyLogger)
+ 2. [PointerTracker](#PointerTracker)
+ 3. [QRCodesGen](#QRCodesGen)
+
+------------------------------------------------------------------------------------------------------------------------
+
 
 # KeyLogger
 
