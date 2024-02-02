@@ -2,9 +2,11 @@
 Python automation scripts/tools
 
 # APP/TOOLS LIST:
-## KeyLogger(#KeyLogger)
-## PointerTracker
-## QRCodesGen 
+## 1. [KeyLogger](#KeyLogger)
+## 2. [PointerTracker](#PointerTracker)
+## 3. [QRCodesGen](#QRCodesGen)
+
+
 
 # KeyLogger
 
@@ -15,4 +17,7 @@ Prosty keylogger napisany w języku Python z użyciem biblioteki pynput. Program
 1. Zainstaluj wymagane biblioteki poleceniem:
    ```bash
    pip install pynput
+
+
+
 
