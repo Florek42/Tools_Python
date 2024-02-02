@@ -1,10 +1,8 @@
-# All of my own useful tools
-**Python automation scripts/tools/apps/bots etc**
-------------------------------------------------------------------------------------------------------------------------
-
 # This is file with instructions and informations about all of my small programs, apps, bots etc. 🛠️
 
 Welcome to the repository containing various useful tools, applications, bots, etc., created by me during my programming journey. Below, you'll find brief descriptions of each project along with instructions on how to use them.
+
+------------------------------------------------------------------------------------------------------------------------
 
 ## How to Run?
 
